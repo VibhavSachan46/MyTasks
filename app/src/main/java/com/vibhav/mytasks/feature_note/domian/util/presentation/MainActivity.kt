@@ -1,4 +1,4 @@
-package com.vibhav.mytasks.feature_note.presentation
+package com.vibhav.mytasks.feature_note.domian.util.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
